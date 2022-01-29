@@ -1,0 +1,29 @@
+.sampulbuku1 {
+  width: 80px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+  padding: 20px;
+  width: 400px;
+  margin: 20px;
+}
+
+.table > thead > tr > th {
+  padding: 20px;
+  width: 400px;
+  margin: 20px;
+}
+
+.h2 > img > h5 > p {
+  padding: 20px;
+  width: 400px;
+  margin: 20px;
+}
+.right {
+  text-align: right;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
